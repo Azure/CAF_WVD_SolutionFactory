@@ -39,7 +39,7 @@ The WVD CAF Solution Factory has Technical and Sales Enablement contents for dep
 ## Key Contributors  
 Thanks to our contributors:  
 Microsoft Content Team: Dale Kirby, Jeff Mitchell   
-Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall 
+Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall  
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the content.  
 
 ## Support for future scenarios  
