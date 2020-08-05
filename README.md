@@ -31,9 +31,15 @@ The WVD CAF Solution Factory has Technical and Sales Enablement contents for dep
  * [Azure Cloud Adoption Framework Documentation](https://azure.microsoft.com/en-us/cloud-adoption-framework)  
  * [Additional Cloud Adoption Framework Resources](https://www.microsoft.com/azure/partners/b/enable/cloud-adoption-framework)  
  
+ ## Additional CAF Solution Factories
+ * [SQL CAF Solution Factory](https://github.com/Azure/SQL_CAF_SolutionFactory)
+ * [AKS CAF Solution Factory](https://github.com/Azure/AKS_CAF_SolutionFactory)
+ * [ServerMigration CAF Solution Factory](https://github.com/Azure/ServerMigration_CAF_SolutionFactory)
+ 
 ## Key Contributors  
 Thanks to our contributors:  
-Microsoft Team: Manish Dhall, Dale Kirby, Jeff Mitchell, Farida Bharmal   
+Microsoft Content Team: Dale Kirby, Jeff Mitchell
+Microsoft CAF Solution Factory Leads: Farida Bharmal, Manish Dhall 
 We have leveraged help from Microsoft Partner [Fyrsoft](https://www.fyrsoft.com/) to create the content.  
 
 ## Support for future scenarios  
