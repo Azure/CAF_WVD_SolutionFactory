@@ -1,4 +1,6 @@
 # Windows Virtual Desktop (WVD) Solution Factory Aligned to Cloud Adoption Framework # 
+The WVD CAF Solution Factory has contents to help deployment of Windows Virtual Desktop(WVD) to Azure in alignment to Cloud Adoption Framework. 
+
 The WVD CAF Solution Factory has Technical and Sales Enablement contents for deploying WVD to Azure. The sale content contains PowerPoint for WVD and CAF. The technical enablement contains eBook that describes what needs to happen during a WVD deployment aligned to Cloud Adoption Framework, DevOps Project TaskList to  help customers and partners to deploy and manage WVD in alignment to Cloud Adoption Framework (CAF).  
 
  ![CAF](https://github.com/faridabharmal/WVD_CAF_SolutionFactory/blob/master/TechnicalEnablement/CAF.png)
